@@ -552,4 +552,3 @@ public class ShowImagesActivity extends AppCompatActivity {
 
 ![c3](https://user-images.githubusercontent.com/51777024/85917269-431f5500-b876-11ea-9162-57cc864f8e04.png)
 
-#
