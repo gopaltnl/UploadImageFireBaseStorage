@@ -1,4 +1,4 @@
-# UploadimagesFirebaseStorage
+# Sample Example Application
 
 ## Creating a new Project
 * As always the first step is creating a new Android Studio Project.
