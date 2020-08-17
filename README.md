@@ -34,6 +34,7 @@ Now Click on the second button Add Firebase Storage to Your App.
 
 ![a5](https://user-images.githubusercontent.com/51777024/85916771-8d520780-b871-11ea-8c0c-6af9b4683c09.png)
 
+
 * Then click on accept changes and firebase storage is added.
 
 ![a6](https://user-images.githubusercontent.com/51777024/85916775-904cf800-b871-11ea-9273-dd7fa360ee24.png)
